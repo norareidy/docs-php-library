@@ -20,10 +20,10 @@ Specify Connection Options
 .. toctree::
 
    Stable API </connect/connection-options/stable-api>
+   Connection Pools </connect/connection-options/connection-pools>
 
 .. TODO:
    Compress Network Traffic </connect/connection-options/network-compression>
-   Connection Pools </connect/connection-options/connection-pools>
 
 Overview
 --------
